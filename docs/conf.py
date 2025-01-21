@@ -81,9 +81,9 @@ html_theme_options = {
     'logo_only': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
-    'style_nav_header_background': 'blue',
+    'style_nav_header_background': '#2980b9',
     'flyout_display': 'attached',
-    'version_selector': True,
+    'version_selector': False,
     'language_selector': True,
     # Toc options
     'collapse_navigation': False,
