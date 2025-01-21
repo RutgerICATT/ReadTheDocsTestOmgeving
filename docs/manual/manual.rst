@@ -15,6 +15,7 @@ Per onderwerp leggen wij uit wat de mogelijkheden zijn en hoe je de werkzaamhede
    :maxdepth: 2
    :hidden:
 
+   voorbeelddata.md
    nieuws.md
    skills.md
    links.md
