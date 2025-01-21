@@ -25,7 +25,7 @@ sys.path.append(os.path.abspath("_ext"))
 
 # -- Project information -----------------------------------------------------
 
-project = "Test syps"
+project = "KISS"
 copyright = "2024"
 # # author = objects.__author__
 
@@ -81,7 +81,7 @@ html_theme_options = {
     'logo_only': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
-    'style_nav_header_background': 'white',
+    'style_nav_header_background': 'blue',
     'flyout_display': 'attached',
     'version_selector': True,
     'language_selector': True,
