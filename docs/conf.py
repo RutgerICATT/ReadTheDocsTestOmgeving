@@ -25,7 +25,7 @@ sys.path.append(os.path.abspath("_ext"))
 
 # -- Project information -----------------------------------------------------
 
-project = "KISS"
+project = "KISS documentatie"
 copyright = "2024"
 # # author = objects.__author__
 
